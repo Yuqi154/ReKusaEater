@@ -1,0 +1,12 @@
+modLoader = "javafml"
+loaderVersion = "[43,)"
+license = "MIT"
+
+[[mods]]
+modId = "kusaeater"
+version = "${version}"
+displayName = "KusaEater"
+authors="TeamPotato"
+description = '''
+Now you can eat grass.
+'''
